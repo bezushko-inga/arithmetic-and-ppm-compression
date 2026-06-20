@@ -1,8 +1,15 @@
 # Arithmetic and PPM Compression
+<p align="center">
+  <img src="./assets/сompression-banner-1.jpg" width="1000">
+</p>
 
 Python implementation of two lossless data compression algorithms:
 - Adaptive Arithmetic Coding
 - PPM (Prediction by Partial Matching)
+
+<p align="center">
+  <img src="./assets/сompression-banner-2.JPG" width="1000">
+</p>
 
 ## Requirements
 ```bash
@@ -50,6 +57,10 @@ python compress.py --input input.txt --output compressed.bin --mode d --method p
     ├── test_6           
     └── test_7            
 ```
+
+<p align="center">
+  <img src="./assets/сompression-banner-3.jpg" width="1000">
+</p>
 
 ## Benchmark Results
 
@@ -252,3 +263,7 @@ The compressors were evaluated on public and private benchmark test files. The t
 <td>0.240</td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/сompression-banner-4.jpg" width="1000">
+</p>
